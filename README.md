@@ -34,14 +34,14 @@ omarchy theme install https://github.com/LioHeimberg/omarchy-lcars-theme
 
 <table>
   <tr>
-    <td><img src="backgrounds/01-lcars-panel.jpg" width="260" alt="Panel"></td>
+    <td><img src="backgrounds/01-lcars-engineering.jpg" width="260" alt="Panel"></td>
     <td><img src="backgrounds/02-lcars-schematic.jpg" width="260" alt="schematic"></td>
     <td><img src="backgrounds/03-lcars-display.jpg" width="260" alt="display"></td>
   </tr>
   <tr>
     <td><img src="backgrounds/04-lcars-interface.png" width="260" alt="interface"></td>
     <td><img src="backgrounds/05-lcars-console.jpg" width="260" alt="console"></td>
-    <td><img src="backgrounds/06-lcars-engineering.jpg" width="260" alt="engineering"></td>
+    <td><img src="backgrounds/06-lcars-panel.jpg" width="260" alt="engineering"></td>
   </tr>
   <tr>
     <td><img src="backgrounds/07-lcars-tng.png" width="260" alt="tng"></td>
