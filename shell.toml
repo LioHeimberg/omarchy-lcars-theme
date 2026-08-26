@@ -1,0 +1,133 @@
+# LCARS shell theme - Star Trek TNG computer interface aesthetic.
+
+[bar]
+background       = "#000000"
+background-alpha = 1.0
+text             = "#CCBBAA"
+active           = "#9988CC"
+scale-with-font  = true
+size-horizontal  = 30
+size-vertical    = 34
+
+[hyprland]
+active-border            = "rgba(9988CCee) rgba(5588CCee) 45deg"
+active-border-foreground = "#CCBBAA"
+
+[controls]
+normal-color        = "#CCBBAA"
+normal-fill-alpha   = 0.04
+normal-border       = "#9988CC"
+normal-border-width = 1
+normal-border-alpha = 0.5
+
+hover-cursor-color        = "#9988CC"
+hover-cursor-fill-alpha   = 0.15
+hover-cursor-border       = "#9988CC"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.4
+
+focus-color        = "#9988CC"
+focus-fill-alpha   = 0.15
+focus-border       = "#9988CC"
+focus-border-width = 1
+focus-border-alpha = 0.4
+
+selected-color        = "#9988CC"
+selected-fill-alpha   = 0.32
+selected-border       = "#9988CC"
+selected-border-width = 0
+selected-border-alpha = 1.0
+
+pressed-fill-alpha   = 0.35
+selection-fill-alpha = 0.40
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+
+[font]
+base-size = 12
+
+[popups]
+background       = "#000000"
+background-alpha = 1.0
+text             = "#CCBBAA"
+border           = "#9988CC"
+border-alpha     = 0.7
+
+[tooltip]
+background       = "#000000"
+background-alpha = 0.97
+text             = "#CCBBAA"
+border           = "#9988CC"
+border-alpha     = 0.7
+
+[notifications]
+background       = "#000000"
+background-alpha = 1.0
+text             = "#CCBBAA"
+border           = "#9988CC"
+border-alpha     = 0.7
+countdown        = "#9988CC"
+
+[launcher]
+background                = "#000000"
+background-alpha          = 0.95
+text                      = "#CCBBAA"
+border                    = "#9988CC"
+border-alpha              = 0.7
+scrim                     = "#000000"
+scrim-alpha               = 0.5
+selected-background       = "#9988CC"
+selected-background-alpha = 0.35
+selected-text             = "#1A1020"
+selected-border           = "#9988CC"
+selected-border-alpha     = 0.6
+
+[menu]
+background                = "#000000"
+background-alpha          = 1.0
+text                      = "#CCBBAA"
+border                    = "#9988CC"
+border-alpha              = 0.7
+scrim                     = "#000000"
+scrim-alpha               = 0.5
+selected-background       = "#9988CC"
+selected-background-alpha = 0.35
+selected-text             = "#1A1020"
+selected-border           = "#9988CC"
+selected-border-alpha     = 0.6
+
+[polkit]
+background       = "#000000"
+background-alpha = 1.0
+text             = "#CCBBAA"
+text-error       = "#CC3333"
+border           = "#9988CC"
+border-error     = "#CC3333"
+border-alpha     = 1.0
+scrim            = "#000000"
+scrim-alpha      = 0.5
+accent           = "#9988CC"
+
+[lock]
+background       = "#000000"
+background-alpha = 0.8
+text             = "#CCBBAA"
+placeholder      = "#554F45"
+text-error       = "#CC3333"
+border           = "#9988CC"
+border-active    = "#9988CC"
+border-error     = "#CC3333"
+border-alpha     = 1.0
+selection        = "#9988CC"
+selection-alpha  = 0.45
+
+[image-picker]
+scrim                   = "#000000"
+scrim-alpha             = 0.5
+text                    = "#CCBBAA"
+selected-border         = "#9988CC"
+selected-border-alpha   = 1.0
+unselected-border       = "#CCBBAA"
+unselected-border-alpha = 0.28
