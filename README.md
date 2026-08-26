@@ -13,8 +13,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/github/last-commit/LioHeimberg/omarchy-lcars-theme?style=for-the-badge&logo=startrek&&color=eb943a" target="_blank" />
-    <img src="https://img.shields.io/badge/ACTIVE-B?style=for-the-badge&label=LCARS&color=8899ff&logo=startrek
-    " target="_blank" />
+    <img src="https://img.shields.io/badge/ACTIVE-B?style=for-the-badge&label=LCARS&color=8899ff&logo=startrek" target="_blank" />
   <a href="https://www.instagram.com/lioheimberg" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
