@@ -6,7 +6,7 @@
 
 - ... you're in Starfleet
 - ... you think the LCARS interface is the peak of human-computer interaction.
-- ... you?ve accepted that the warp core will need to be ejected eventually.
+- ... you've accepted that the warp core will need to be ejected eventually.
 - ... you consider red shirts a valid life insurance policy.
 
 <br>
